@@ -17,12 +17,20 @@
     font-size: 15px;
     font-family:Arial, Helvetica, sans-serif;
   }
-  .Comentario{
+  .perfil{
     display: flex;
-    gap: 50px;
+
+    gap: 10px;
+
   }
-  .Comentario img{
+  .perfil img{
 
     width: 50px;
     border-radius: 50px;
+
   }
+.Comentario_Intermedio p{
+  border-bottom-style:solid ;
+  color: black;
+  padding-bottom: 5px;
+}
